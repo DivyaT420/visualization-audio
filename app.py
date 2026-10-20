@@ -11,7 +11,6 @@ VOICES = {
     "English - Jenny (US, calm)": "en-US-JennyNeural",
     "English - Aria (US, warm)": "en-US-AriaNeural",
     "English - Ava (US, soft)": "en-US-AvaNeural",
-    "English - Emma (US, gentle)": "en-US-EmmaNeural",
     "English - Sonia (UK)": "en-GB-SoniaNeural",
     "English - Libby (UK)": "en-GB-LibbyNeural",
     "English - Natasha (Australia)": "en-AU-NatashaNeural",
